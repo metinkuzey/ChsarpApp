@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.810.11
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChsarpApp", "ChsarpApp\ChsarpApp.csproj", "{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharpTypes", "CharpTypes\CharpTypes.csproj", "{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +17,10 @@ Global
 		{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}.Debug|anycpu.Build.0 = Debug|anycpu
 		{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}.Release|anycpu.ActiveCfg = Release|anycpu
 		{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}.Release|anycpu.Build.0 = Release|anycpu
+		{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
