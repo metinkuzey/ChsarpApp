@@ -5,14 +5,15 @@ namespace ChsarpApp
     {
 
         // Properites of Product
-        public int id { get; set; }
-        public string productName { get; set; }
-        public double price { get; set; }
-        public string description { get; set; }
+        public int Id { get; set; }
+        public int CategoryId { get; set; }
+        public string ProductName { get; set; }
 
-        public Product()
-        {
-        }
+        public double UnitPrice { get; set; }
+        public string Description { get; set; }
+        public int UnitsInStock { get; set; }
+
+
 
     }
 }

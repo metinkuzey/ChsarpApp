@@ -21,6 +21,20 @@ namespace ChsarpTypes
             // of value, so if there is a process of two array equalization, both arrays have the same address
             // and if we change second array any member value, in the same index of first array memmber value take the same value.
 
+            /*
+             
+             int, double, bool ..... primitive value type
+
+             BUT !!!!
+
+            Arrays, Classes, Abstract Class, Interface .... reference type
+
+            So if a variable is reference type,
+            you should that this variable does not hold value,
+            it holds reference address.
+ 
+             
+             */
 
         }
     }

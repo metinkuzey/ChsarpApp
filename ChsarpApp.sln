@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChsarpApp", "ChsarpApp\Chsa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharpTypes", "CharpTypes\CharpTypes.csproj", "{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpCollections", "CsharpCollections\CsharpCollections.csproj", "{DE5318FD-C8F0-4253-A8FC-D63251333BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{29691964-0CDD-40D1-AFF6-7D30861BC99C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -21,6 +25,14 @@ Global
 		{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{D1B1DE31-0EF9-4532-A7F1-31A24537FDFF}.Release|anycpu.Build.0 = Release|Any CPU
+		{DE5318FD-C8F0-4253-A8FC-D63251333BBC}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{DE5318FD-C8F0-4253-A8FC-D63251333BBC}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{DE5318FD-C8F0-4253-A8FC-D63251333BBC}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{DE5318FD-C8F0-4253-A8FC-D63251333BBC}.Release|anycpu.Build.0 = Release|Any CPU
+		{29691964-0CDD-40D1-AFF6-7D30861BC99C}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{29691964-0CDD-40D1-AFF6-7D30861BC99C}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{29691964-0CDD-40D1-AFF6-7D30861BC99C}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{29691964-0CDD-40D1-AFF6-7D30861BC99C}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
