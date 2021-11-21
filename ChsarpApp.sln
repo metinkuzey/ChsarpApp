@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChsarpApp", "ChsarpApp\ChsarpApp.csproj", "{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{89E29CCC-CDE1-4834-AAA7-5D8D083A40F9}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3415A9-C6B9-48D5-A09B-2F4A851A0F88}
+	EndGlobalSection
+EndGlobal
